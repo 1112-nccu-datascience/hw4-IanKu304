@@ -2,7 +2,7 @@
 
 #### Name: 顧以恩
 #### Student ID: 109304033
-#### ShinyApps link: [<[https://ianku304.shinyapps.io/NCCU_DS2023_hw4_109304033/](https://ianku0306.shinyapps.io/NCCU_DS2023_hw4_109304033/)>]
+#### ShinyApps link: [<[https://ianku0306.shinyapps.io/NCCU_DS2023_hw4_109304033/](https://ianku0306.shinyapps.io/NCCU_DS2023_hw4_109304033/)>]
 
 ## Description
 
