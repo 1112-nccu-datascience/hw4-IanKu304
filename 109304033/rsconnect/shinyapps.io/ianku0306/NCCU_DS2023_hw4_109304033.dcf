@@ -1,0 +1,14 @@
+name: NCCU_DS2023_hw4_109304033
+title: NCCU_DS2023_hw4_109304033
+username:
+account: ianku0306
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9137800
+bundleId: 7266584
+url: https://ianku0306.shinyapps.io/NCCU_DS2023_hw4_109304033/
+when: 1685095602.64901
+lastSyncTime: 1685095602.64902
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: test.R
